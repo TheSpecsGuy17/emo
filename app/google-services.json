@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626350794621",
+    "project_id": "lastone-6e68d",
+    "storage_bucket": "lastone-6e68d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626350794621:android:1ad3f3bbd2c06ca2118e14",
+        "android_client_info": {
+          "package_name": "com.example.emo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfqDpiF1pCCDkjwEkAD2SNXnh3OLZhGvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
